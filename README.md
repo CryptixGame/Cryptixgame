@@ -1,7 +1,6 @@
-Heya! I'm Nico, or you can call me Cryptix.
-I am the proud developer of SnowflakeOS, a giant Console Operating System, being in development for a while now, and I am very proud of it.
-I hope you enjoy :)
+Hi there, welcome to my page.
+I am Nico, a C# programmer, and website designer 
+working currently on 'Nebula HOME', a clean, modern 
+landing program for all my other projects.
 
-<!---
-I'll edit this all later :)
---->
+The webpage for it will be out soon.
